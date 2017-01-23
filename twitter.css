@@ -1,0 +1,5 @@
+.ProfileCardStats, .DashboardProfileCard-content, .Trends, .flex-module, .WhoToFollow.is-visible, .stream-items.recap-module.js-navigable-stream.dismissible-content,
+.recap-header.dismissible-content, .js-stream-item.stream-item.has-recap.js-no-dedup.DismissibleModule.js-has-navigable-stream.stream-item.separated-module, .js-retweet-text,
+.DashboardProfileCard.module, .IconTextContainer, .js-tweet-stats-container.tweet-stats-container, .ProfileNav {
+    display: none;
+}

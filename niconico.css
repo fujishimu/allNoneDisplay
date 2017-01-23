@@ -1,0 +1,3 @@
+.itemContent .wrap, strong, .VideoViewCountMeta, .CommentCountMeta, .MylistCountMeta, .CategoryRankMeta, .play, .comment, .mylist, .dataOuter, .AnimatorContainer  {
+    display: none;
+}
